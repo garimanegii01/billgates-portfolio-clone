@@ -472,7 +472,7 @@ nav .fas {
     }
 
     #header {
-        height: 180%;
+        height: 100%;
     }
 
     #nav img {
@@ -570,6 +570,9 @@ nav .fas {
     margin-top: 2vw;
 
 }
+#about {
+    padding: 2px 0;}
+
 
     .about-col-2 p {
         font-size: 16px;
